@@ -1,0 +1,82 @@
+[
+  {
+    "accountId": "123",
+    "accountName": "test",
+    "amount": 1000,
+    "client": "环球",
+    "id": "1788436939735_c52d58",
+    "platform": "Facebook"
+  },
+  {
+    "accountId": "1",
+    "amount": 100,
+    "id": "1788438033720_0dd3b6",
+    "client": "环球",
+    "platform": "Facebook"
+  },
+  {
+    "id": "1788438221065_8786c7",
+    "date": "2026-09-01",
+    "accountName": "测试户-QQ渠道",
+    "accountId": "987654321098765",
+    "amount": 5000.0,
+    "clear": 0,
+    "client": "环球",
+    "platform": "Facebook"
+  },
+  {
+    "id": "1788438221065_e92b53",
+    "date": "2026-09-02",
+    "accountName": "测试户-CX渠道",
+    "accountId": "987654321098766",
+    "amount": 3000.0,
+    "clear": 100.0,
+    "client": "环球",
+    "platform": "Facebook"
+  },
+  {
+    "id": "1788438221326_8bc4e4",
+    "date": "2026-09-01",
+    "accountName": "测试户-QQ渠道",
+    "accountId": "987654321098765",
+    "amount": 5000.0,
+    "clear": 0,
+    "client": "环球",
+    "platform": "Facebook"
+  },
+  {
+    "id": "1788438221326_6c6fa5",
+    "date": "2026-09-02",
+    "accountName": "测试户-CX渠道",
+    "accountId": "987654321098766",
+    "amount": 3000.0,
+    "clear": 100.0,
+    "client": "环球",
+    "platform": "Facebook"
+  },
+  {
+    "id": "UNIT-REC-A",
+    "date": "2026-09-04",
+    "accountId": "ST-ACC-A",
+    "amount": 1000,
+    "clear": 0,
+    "client": "测试A"
+  },
+  {
+    "id": "UNIT-BARE",
+    "date": "2026-09-04",
+    "accountId": "ST-NO-MAP-123",
+    "amount": 500,
+    "clear": 0,
+    "client": "裸客户"
+  },
+  {
+    "date": "2026-09-04",
+    "accountName": "加客户",
+    "accountId": "1876253",
+    "amount": 100,
+    "clear": 0,
+    "client": "打包",
+    "id": "1788506186487_ceb81b"
+  }
+]

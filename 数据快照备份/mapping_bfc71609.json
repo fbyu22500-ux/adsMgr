@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-09-04",
+    "endDate": "",
+    "client": "打包",
+    "name": "加客户",
+    "accountId": "1876253",
+    "platform": "Facebook",
+    "channel": "cx",
+    "rate": 0.012,
+    "note": "",
+    "status": "清零",
+    "active": true,
+    "id": "1788494260503_cda2bc"
+  },
+  {
+    "id": "UNIT-SEG-ACC-A",
+    "date": "2026-01-01",
+    "endDate": "2026-09-01",
+    "client": "测试A",
+    "accountName": "测试A",
+    "accountId": "ST-ACC-A",
+    "platform": "Facebook",
+    "channel": "直播",
+    "rate": 0.03,
+    "status": "正常",
+    "note": "UNIT"
+  }
+]

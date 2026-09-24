@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-09-01",
+    "accountName": "加客户",
+    "accountId": "1876253",
+    "spend": 100.0,
+    "client": "打包",
+    "channel": "cx",
+    "platform": "Facebook",
+    "serviceRate": 0.012,
+    "matched": true,
+    "_segStart": "2026-09-04",
+    "_segEnd": ""
+  }
+]

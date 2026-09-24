@@ -1,0 +1,127 @@
+[
+  {
+    "id": "user_admin",
+    "username": "admin",
+    "password": "86b81274858887bb1b69105e35294a1b$87ba0b9fca682580901f213cead4eb14fed2f798b2f1a2085cbd198fb98fe4aa",
+    "role": "admin",
+    "name": "超级管理员",
+    "client": "",
+    "active": true,
+    "createdAt": "2026-09-03T20:01:01.098280",
+    "hide_channel": false,
+    "can_export": true,
+    "nav": null,
+    "scope": {
+      "clients": [],
+      "platforms": [],
+      "channels": [],
+      "block_cols": []
+    }
+  },
+  {
+    "id": "user_1788436919119_277773",
+    "username": "kefu01",
+    "password": "dff1335811801749d3e134ffeb8776d4$3da2c55560f49cbb54bba8334b9dcbff8076270ff24de219531b552bfc462e06",
+    "role": "customer_service",
+    "name": "客服小王",
+    "client": "",
+    "active": true,
+    "createdAt": "2026-09-03T20:01:59.186654"
+  },
+  {
+    "id": "user_1788436939506_142da9",
+    "username": "caiwu01",
+    "password": "e118829affe5d807589f3ecf7383fe2e$4ff3bbf308df5e635a2f522c9d2c013e56a248280c980b5a383af564d0978ee4",
+    "role": "finance",
+    "name": "财务小李",
+    "client": "",
+    "active": true,
+    "createdAt": "2026-09-03T20:02:19.605789"
+  },
+  {
+    "id": "user_1788437941630_0ff9a5",
+    "username": "client01",
+    "password": "d3629c1f22e5c7d646ceaa9840e4777e$bb8a0eaca120cad41d3281a157b4060ff19fbe5a41acdb1609b6e3a09accef51",
+    "role": "client",
+    "name": "",
+    "client": "环球",
+    "active": true,
+    "createdAt": "2026-09-03T20:19:01.706783",
+    "hide_channel": true,
+    "nav": null,
+    "scope": {
+      "clients": [
+        "环球"
+      ],
+      "platforms": [],
+      "channels": [],
+      "block_cols": [
+        "acc_fee",
+        "mtx_fee",
+        "mtx_fee_plus_spend"
+      ]
+    },
+    "can_export": true
+  },
+  {
+    "id": "user_1788537536443_71a30c",
+    "username": "op_test",
+    "password": "fa7d2a23d47b3d201f62cab4bedde584$82cdb1ba7d7864376cb2039a39d08aa9fc217e7209b6c2cc354e4b00cd43a0cc",
+    "role": "company",
+    "name": "受限运营",
+    "client": "",
+    "nav": [
+      "consume",
+      "recharge"
+    ],
+    "scope": {
+      "clients": [
+        "星辰出海"
+      ],
+      "platforms": [
+        "Facebook"
+      ],
+      "channels": []
+    },
+    "active": true,
+    "createdAt": "2026-09-04T23:58:56.458383",
+    "hide_channel": true,
+    "can_export": true
+  },
+  {
+    "id": "user_1788573639752_a8c811",
+    "username": "123",
+    "password": "429195b74952125879efcd065021ef6c$43ad81bbb0557549d91bc9431cd9c0d008567c1e3519d825649b677353989174",
+    "role": "client",
+    "name": "123",
+    "client": "",
+    "nav": [
+      "consume"
+    ],
+    "scope": {
+      "clients": [
+        "丙公司",
+        "乙公司"
+      ],
+      "platforms": [],
+      "channels": []
+    },
+    "hide_channel": true,
+    "active": true,
+    "createdAt": "2026-09-05T10:00:39.767715",
+    "can_export": true
+  },
+  {
+    "id": "user_1788583255909_b82365",
+    "username": "pwtest",
+    "password": "b2cca95eaaebd72f78c67327043f4d5c$b6b983d44882ae6987af62af073752255469bf66fced6785347fb67d0a6a9425",
+    "role": "company",
+    "name": "pwtest",
+    "client": "",
+    "nav": null,
+    "scope": null,
+    "hide_channel": false,
+    "active": false,
+    "createdAt": "2026-09-05T12:40:55.924088"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "enabled": true,
+    "interval_h": 10,
+    "days_back": 5,
+    "lastRun": "2026-09-24 17:12:44",
+    "lastError": ""
+  },
+  "tiktok": {
+    "enabled": true,
+    "interval_h": 6,
+    "days_back": 4,
+    "lastRun": "",
+    "lastError": "没有配置 TikTok Token"
+  },
+  "google": {
+    "enabled": true,
+    "interval_h": 6,
+    "days_back": 14,
+    "lastRun": "",
+    "lastError": "没有配置 Google Token"
+  },
+  "shared_lock_wait": 120
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "time": "2026-09-03T19:52:41.971705",
+    "raw_rows": 224,
+    "added": 223,
+    "skipped_dup": 0
+  },
+  {
+    "time": "2026-09-03T19:52:57.231387",
+    "raw_rows": 12,
+    "added": 0,
+    "skipped_dup": 0
+  },
+  {
+    "time": "2026-09-03T20:18:47.677005",
+    "raw_rows": 224,
+    "added": 0,
+    "skipped_dup": 0
+  },
+  {
+    "time": "2026-09-03T20:20:33.399692",
+    "raw_rows": 224,
+    "added": 0,
+    "skipped_dup": 0
+  },
+  {
+    "time": "2026-09-03T20:20:55.081607",
+    "raw_rows": 224,
+    "added": 23,
+    "skipped_dup": 0
+  },
+  {
+    "time": "2026-09-03T20:45:44.224259",
+    "raw_rows": 224,
+    "added": 0,
+    "updated": 23
+  },
+  {
+    "time": "2026-09-03T20:45:44.282483",
+    "raw_rows": 224,
+    "added": 0,
+    "updated": 23
+  },
+  {
+    "time": "2026-09-04T16:25:08.466052",
+    "raw_rows": 4,
+    "added": 1,
+    "updated": 0
+  }
+]

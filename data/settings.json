@@ -1,0 +1,18 @@
+{
+  "media_check": true,
+  "gap_rule": "prev",
+  "backup": {
+    "enabled": false,
+    "provider": "exmail",
+    "emails": "backup@company.com",
+    "smtp_host": "smtp.exmail.qq.com",
+    "smtp_port": 465,
+    "smtp_user": "bot@company.com",
+    "smtp_pass": "",
+    "smtp_ssl": true,
+    "freq": "daily",
+    "send_time": "08:00",
+    "last_sent": "2026-09-07",
+    "last_result": "❌ 发送失败：(535, b'Error: authentication failed, system busy') (数据备份_20260907_114451.zip)"
+  }
+}
